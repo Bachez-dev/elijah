@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { useState } from "react";
 
 import AboutUs from "./AboutUs";
-import ContactPage from "./contact/contactpage";
+import ContactPage from "./contact/ContactPage.jsx";
 import Services from "./Services";
 import ElectronicsSold from "./ElectronicsSold";
 import KidsAndToys from "./assets/KidsAndToys";
